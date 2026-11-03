@@ -1,0 +1,10 @@
+timestamp,src_ip,query,record_type
+2026-09-25 09:00:01,192.168.1.10,www.google.com,A
+2026-09-25 09:00:05,192.168.1.11,mail.example.com,A
+2026-09-25 09:01:02,192.168.1.12,login.company.com,A
+2026-09-25 09:01:10,192.168.1.20,ajd83kd92js82jd92jskd92jskd92jskd92jskd92jskd.example.com,A
+2026-09-25 09:01:12,192.168.1.20,dGhpcy1sb29rcy1saWtlLWVuY29kZWQtZGF0YQ.example.net,TXT
+2026-09-25 09:01:14,192.168.1.20,mail.example.com,A
+2026-09-25 09:02:03,192.168.1.15,api.company.com,A
+2026-09-25 09:03:44,192.168.1.25,cdn.example.org,A
+2026-09-25 09:04:01,192.168.1.20,9f8a7d6s5d4f3g2h1j0k9l8m7n6b5v4c.example.net,TXT
